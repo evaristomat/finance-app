@@ -24,7 +24,8 @@ cd yourrepository
 pip install -r requirements.txt
 
 # Run the application
-flask run
+flask run 
+```
 
 ## 📖 Usage
 
