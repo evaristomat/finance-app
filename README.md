@@ -17,8 +17,8 @@ Stock Trading Platform is a simulated, user-friendly web application built with 
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/evaristomat/finance-app.git
+cd finance-app
 
 # Install dependencies
 pip install -r requirements.txt
