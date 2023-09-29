@@ -39,6 +39,8 @@ flask run
 ### Index/Portfolio
 - **View Portfolio:**
   - After logging in, you will be redirected to `/` where you can view owned stocks, their current prices, and your remaining cash balance.
+![Example Image](https://github.com/evaristomat/finance-app/blob/7a62fdca2812b4b3ebbc670a60a872dd4b25399b/png/3.png)
+
 
 ### Buy/Sell Stocks
 - **Buy Stocks:**
@@ -49,6 +51,7 @@ flask run
 ### Transaction History
 - **View History:**
   - Navigate to `/history` to view details of all your transactions including stock symbols, share numbers, prices, and transaction times.
+![Example Image](https://github.com/evaristomat/finance-app/blob/7a62fdca2812b4b3ebbc670a60a872dd4b25399b/png/2.png)
 
 ### Adding Cash
 - **Add Cash:**
