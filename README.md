@@ -64,6 +64,7 @@ This project is open-source and is licensed under the MIT License. For more deta
 ## 🌐 Contact
 
 For any additional information or inquiries, please feel free to contact:
-- **[Linkedin]: (<https://www.linkedin.com/in/matheus-alves-evaristo/>)**
+- **[Linkedin](https://www.linkedin.com/in/matheus-alves-evaristo/)**
   or
-- **[GitHub](<https://github.com/evaristomat>)**
+- **[GitHub](https://github.com/evaristomat)**
+
