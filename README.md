@@ -34,6 +34,7 @@ flask run
   - Navigate to `/register` to create a new account.
 - **Login:**
   - Once registered, navigate to `/login` and input your credentials to access your account.
+![Example Image](https://github.com/evaristomat/finance-app/tree/main/png/1.png)
 
 ### Index/Portfolio
 - **View Portfolio:**
